@@ -3,7 +3,7 @@
 | Name | Id|
 |----|----|
 |Kirubek Yitagesu|ATE/9761/15|
-# Github account link
+# leetcode account link
 https://leetcode.com/u/KirubelYitagesu/ 
 # Solution 
 
